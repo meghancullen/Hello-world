@@ -18,5 +18,6 @@ Beginning my journey navigating Github and getting some hands on practice as wel
 1. Iowa Chop House
 2. Pullmans Diner
 3. Bluebird Cafe
+4. Basta
 ## Conclusion 
 Thank **YOU** for exploring Github with me! 
